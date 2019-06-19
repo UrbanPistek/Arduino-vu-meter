@@ -53,4 +53,18 @@ void loop() {
    /*
     Diode: Only lets current flow in one direction 
     */
+
+    /*
+     You can change the clock on the arduino with a multiplier to increase the speed of the ADC (However it will be less accurate) 
+     */
+
+     /* 
+      How a microphone works: A membrane vabribates based on the frequency of the sound, this membrane is connected to a magnet that vibrates and
+      induces a current in wires that produces the sound signal. By doing the reverse you have a speaker.
+     */
+
+     /*
+      The microphone utilizes a operational amplifier 
+      Half wave rectifier can turn a sine wave into a half wave 
+      */
 }
